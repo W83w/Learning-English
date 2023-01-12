@@ -1,0 +1,111 @@
+count - считать 
+pickle - соленный огурец 
+lumber jack - домкрат для пиломатериалов
+reload - перезагрузка 
+title - заглавие
+application - приложение
+find - находить
+exec - выполнение
+replace - заменять
+append - добавлять 
+pop - хлопок  
+insert - вставлять 
+remove - удалить
+extend - расширять 
+sort - сортировка
+reverse - обратный
+strip - полоса
+split - расщеплять
+row - ряд
+range - диапозон
+map - карта
+filter - фильтр
+food - еда
+dict - диктует
+trip - поездка 
+eval - оценка
+quantity - количество, число 
+quality - качество 
+shelve - откладывать в долгий ящик 
+dumps - свалки 
+loads - нагрузки 
+comma separated value - разделенное запятыми значение
+with - с
+seek - искать
+flush - промывать
+subprocess - подпроцесс
+serial - серийный
+compile - компилировать
+grail - грааль
+reload all - перезагрузить все
+return - вернуть
+continue - продолжить 
+while - время, покуда, при
+raise - поднимать, ростить
+assert - утверждать, заявлять 
+except - кроме
+reply - отвечать
+float - плыть
+yield - уступать, урожай
+future - будующее
+file faker - файловый фальсификатор звучит как файл фикер 
+choice - выбор 
+default - по умолчанию 
+match - совпадение
+enumerate - перечислять 
+offset - смещение 
+request - запрос
+iteration - итератор 
+reduce - уменьшать 
+functools - функциональные инструменты
+any - какой кибудь
+contains - содержит 
+add - добавлять 
+start switch - пусковой выключатель 
+square - площадь квадрат Сквеар
+squirrel - белка сквиар
+employee - работник
+sphinx - сфинкс 
+structured - структурированный 
+pygments - пигменты
+beginners - начинающих бигинерс 
+intersect - пересикающийся 
+builtins - встроенные
+LEGB - local enclosing global built>in 
+enclosing - вшита
+target - Цель
+strong - сильный
+Emphasize - подчеркивание
+charset - Кодировка
+ordered list - упорядоченный список
+nested - вложенный
+multipole - множество 
+args - аргументы
+tracer - трассе
+apply - подать заявление
+notify - уведомлять
+TKinter - кросс платформенная графическая библиотека 
+Widget - виджет
+iterable - повторяемый
+isinstance - Экзампляр
+schedule - расписание 
+annotations - аннотации
+gen squares - квадраты генов
+build squares - стройте квадраты 
+tuple - Кортеж
+throw - Бросать звучит как фроу
+disaster - стихийное бедствие
+capitalize - капитализм  
+slice - ломтик
+dunder - гром
+outer - внешний
+inner - внутненний
+knights - рыцарь 
+sayint - высказывание
+quote - цитирование читется как kwot
+hiss - сувство
+enliven - оживлять 
+multiple - несколько 
+nemesis - возмездие 
+equals - равняется 
+snowman - снеговик

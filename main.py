@@ -17,9 +17,11 @@ while True: # Пустой цикл
         WordsInMassiv = words[values] # страка с ответом еще не обрезанная
         a = str(WordsInMassiv).split('-', 2) # Обрезаю строну по -
         ai = a[0] # отдельно показываю что первую часть обрезки брать потому что после обрезки получается список из 2 элементов
+        ai2 = a[1] # Вывожу Русское слово
+        ai2 = ai2.lower().lstrip()
         print(ai) # Вывожу слово
-        i = input() # Просто ентер
-        print(words[values], V, quantity) #Ответ
+        TestWord = input(f"Введите слово") # Введите слово
+        print(words[values], V, quantity) # Ответ
         print(sorted(Replay)) # Просто ключи для проверки повторений
     if len(Replay) == len(words):   #сравнивает если словарь полностью заполнен он равен другому
         print('Перезапуск')
